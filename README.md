@@ -34,7 +34,7 @@ Mobile view Nav open: !['./public/images/Screen Shot 2022-11-20 at 21.20.55.png'
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://bradwellc.github.io/FEM_News-Homepage/)
+- [Solution URL](https://bradwellc.github.io/FEM_News-Homepage/)
 
 ## My process
 
